@@ -1,7 +1,7 @@
 #!/bin/bash
 # written by Ladislav Grulich (LaGr77)
-# version 0.1.2
-# since 2022-01-26
+# version 0.2.0
+# since 2022-06-17
 # licence MIT
 
 #RKHUNTER_LOGFILE="/var/log/rkhunter/rkhunter-$(date +'%w').log"
